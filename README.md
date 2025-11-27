@@ -23,7 +23,4 @@
 ## 📊 Minhas Estatísticas
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/apieadme-streak-stats.herokuapp.comign="center">
-  <a href="mailtoter@gmail.com<img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoe</a>
-  <a href="https://www.linkedin.com/in/seu-linkedin"https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor
-</p>
+
