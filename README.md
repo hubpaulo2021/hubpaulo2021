@@ -1,10 +1,9 @@
 
-<div align="center">
-  <h1>👋 Olá, eu sou <strong>Paulo Vinicius</strong>!</h1>
-  <p>💻 Desenvolvedor apaixonado por tecnologia e inovação</p>
-  <p>🎯 Foco em <strong>Java</strong>, <strong>MySQL</strong> e desenvolvimento de sistemas desktop e mobile</p>
-  <p>📍 Brasília, Brasil</p>
-</div>
+# 👋 Olá, eu sou Paulo Vinicius!
+
+💻 **Desenvolvedor apaixonado por tecnologia e inovação**  
+🎯 Foco em **Java**, **MySQL** e desenvolvimento de sistemas desktop e mobile  
+📍 Brasília, Brasil  
 
 ---
 
@@ -17,6 +16,12 @@
 
 ## 🛠️ Tecnologias
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Javaicons/devicon/icons/mysql/mysql-original.svg" width="50" heightlivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="//cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS align="center">
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysqlsvg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50" alt="Androidns/devicon/icons/vscode/vscode-original.svg" width="50" heighttísticas
+<div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=hubpaulo2021&showp.com/?user=hubpaulo202ngs/?usernameter@gmail.com<img src="https://img.shields.io/badge/-Email-red?style=for-the-badgel&logoColor=white</a>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?usernameeak-stats.herokuappp align="center">
+  mailto:senacwaiter@gmail.com<img src="https://img.shields.io/badge/-Email-red?style=for-theo=gmail&logoColor=white</a>
+  <a href="https://www.linkedin.cominkedin<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin=white</a>
+</p>
