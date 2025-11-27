@@ -16,3 +16,8 @@
 
 ## 🛠️ Tecnologias
 <p align="left">
+
+
+## 📊 Minhas Estatísticas
+
+
