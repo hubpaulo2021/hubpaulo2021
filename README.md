@@ -15,4 +15,4 @@
 ---
 
 ## 🛠️ Tecnologias
-<p>
+<p align="left">
