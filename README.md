@@ -16,11 +16,14 @@
 
 ## 🛠️ Tecnologias
 <p align="center">
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysqlsvg
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50"dn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Javaicons/devicon/iconsql-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-originalg src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original
+---
 
 ## 📊 Minhas Estatísticas
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=hubpaulo202e-stats.vercel.app/api/top-langs/?username=hubpaulo2021&layout=compact&theme=shields.io/badge/-Email-red?style=for-the-badge&logooColor=white</a>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/apieadme-streak-stats.herokuapp.comign="center">
+  <a href="mailtoter@gmail.com<img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoe</a>
+  <a href="https://www.linkedin.com/in/seu-linkedin"https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor
+</p>
